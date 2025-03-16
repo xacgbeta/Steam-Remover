@@ -11,5 +11,4 @@ How to use:
 
 
 Reminder:
-Do not remove any files that are extracted
-Remover.exe needs all the dlls and libraries to run the software
+Do not remove any files that are extracted from Remover.rar needs all the dlls and libraries to run the software
