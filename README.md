@@ -6,7 +6,7 @@ This tool removes `.st` files from:
 
 ## **How to Use:**  
 
-1. **Download** `Remover.exe` from the release.  
+1. **Download** `Steam Remover` from the [release](https://github.com/xacgbeta/Steam-Remover/releases/tag/main).  
 2. **Run** `Remover.exe`.  
 3. **Complete** the setup.  
 4. **Done!**  
