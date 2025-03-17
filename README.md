@@ -5,10 +5,11 @@ The purpose to reduce your library image cache.
 
 
 How to use:
-1. Download Remover.rar file from release.
-2. Extract Remover.rar anywhere (e.g. Desktop).
-3. Run Remove.exe
+1. Download Remover.exe from release.
+2. Run Remove.exe
+3. Complete the setup.
+4. Done!
 
 
 Reminder:
-Do not remove any files that are extracted from Remover.rar, .exe needs all the dlls and libraries to run the software.
+Do not remove any files that are installed from the setup, .exe needs all the dlls and libraries to run the software.
