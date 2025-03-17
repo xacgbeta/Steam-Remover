@@ -1,15 +1,15 @@
-Steam Game Remover Tool
+# **Steam Game Remover Tool**  
+This tool removes `.st` files from:  
+📂 `C:/Program Files (x86)/Steam/config/stplug-in`  
 
-The tools only remove .st file from C:/Program Files (x86)/Steam/config/stplug-in.
-The purpose to reduce your library image cache.
+**Purpose:** To reduce your Steam library image cache.  
 
+## **How to Use:**  
 
-How to use:
-1. Download Remover.exe from release.
-2. Run Remover.exe
-3. Complete the setup.
-4. Done!
+1. **Download** `Remover.exe` from the release.  
+2. **Run** `Remover.exe`.  
+3. **Complete** the setup.  
+4. **Done!**  
 
-
-Reminder:
-Do not remove any files that are installed from the setup, .exe needs all the dlls and libraries to run the software.
+### **Important Reminder:**  
+⚠️ Do **not** delete any files installed during setup. The `.exe` requires all DLLs and libraries to function properly.
