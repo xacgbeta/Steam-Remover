@@ -6,7 +6,7 @@ The purpose to reduce your library image cache.
 
 How to use:
 1. Download Remover.exe from release.
-2. Run Remove.exe
+2. Run Remover.exe
 3. Complete the setup.
 4. Done!
 
