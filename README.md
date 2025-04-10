@@ -1,5 +1,5 @@
 # **Steam Game Remover Tool**  
-This tool removes `.st, .manifest, and .bin` files from:  
+This tool removes `.st, .lua, .manifest, and .bin` files from:  
 📂 `C:/Program Files (x86)/Steam/`
 
 ## **How to Use:**  
