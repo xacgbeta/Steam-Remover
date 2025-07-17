@@ -14,3 +14,5 @@ This tool removes `.st, .lua, .manifest, and .bin` files from:
 ## Additional Notes
 - Steam path folder set by default (`C:/Program Files (x86)/Steam/`), unless the steam installation is different then you need to set to where it stores steam.
 - Use `Steam Folder` to change the folder path.
+
+Updated: 17/7/25 and still working.
